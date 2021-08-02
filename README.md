@@ -1,1 +1,1 @@
-# Large-scale-Geo-Spaal-Data-Analysis-
+# Large-scale-Geo-Spatial-Data-Analysis-
